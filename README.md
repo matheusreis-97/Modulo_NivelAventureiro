@@ -1,1 +1,14 @@
-# Modulo_NivelAventureiro
+#include <stdio.h>
+
+int main() {
+
+
+
+
+
+
+
+
+
+    
+}
